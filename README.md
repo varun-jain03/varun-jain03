@@ -39,8 +39,8 @@ I’m a passionate **MERN stack developer** with strong **Data Structures & Algo
 ---
 
 ## 🤝 Connect with Me  
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/varun-jain03](https://linkedin.com/in/varun-jain03)  
+- 📧 Email: **varunjain.jain.j@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/varun-jain03](https://www.linkedin.com/in/varun-jain-6b088b286/)  
 - 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
 
 ---
